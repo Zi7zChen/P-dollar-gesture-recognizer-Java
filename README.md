@@ -1,2 +1,2 @@
-# -N-gesture-recognizer
-Java application that implements the $N gesture recognizing algorithms
+# -P-gesture-recognizer
+Java application that implements the $P gesture recognizing algorithms
